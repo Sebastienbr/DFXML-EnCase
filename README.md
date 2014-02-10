@@ -14,19 +14,20 @@ Copy the EnScript in your EnCase Folder (i.e: C:\Program Files\EnCase6\EnScript)
 
 2) Before generating the DFXML output, you need to set the time zone to UTC for the entire case with the "Case Time Settings" dialog. 
 
-	First, go in the "home" tab and right click on your case. Then select the option "Modify time settings". 
+	First, go in the "home" tab and right click on your case. 
+	Then select the option "Modify time settings". 
 	
-![My image](sebastienbr.github.com/DFXML/img/EnCaseModifyTimeSettings.png)
+![My image](https://raw.github.com/Sebastienbr/DFXML/master/img/EnCaseModifyTimeSettings.png)
 	
 	Then, unselect "Account for seasonal Daylight Saving Time" and select the UTC time zone.
 	
 
-![My image](sebastienbr.github.com/DFXML/img/EnCaseTimeZoneConfig.png)
+![My image](https://raw.github.com/Sebastienbr/DFXML/master/img/EnCaseTimeZoneConfig.png)
 
 3) Double click on the EnScript to run it. 
 
 4) Data will be exported in the EnCase export folder (i.e: Default is C:\Program Files\EnCase6\Export).
 
-![My image](sebastienbr.github.com/DFXML/img/DFXMLOutput.png)
+![My image](https://raw.github.com/Sebastienbr/DFXML/master/img/DFXMLOutput.png)
 
 
