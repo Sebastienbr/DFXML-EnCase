@@ -1,14 +1,16 @@
-# Generate DFXML with EnCase  #
--------------------------
+## Generate DFXML with EnCase  ##
+-------------------------------
 
 This EnScript was developed to generate Digital Forensics XML from EnCase v6. It has only been tested with NTFS file system.  
 
-# Installation #
+**Installation**
+-------------------------
 
 Copy the EnScript in your EnCase Folder (i.e: C:\Program Files\EnCase6\EnScript)
 
 
-# How to use it #
+**How to use it**
+-------------------------
 
 1) Create a new case and load your E01 image in EnCase.
 
